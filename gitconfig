@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = yannmechaly@gmail.com
+	name = "Yann Mechaly"
